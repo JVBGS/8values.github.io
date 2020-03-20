@@ -444,9 +444,9 @@ ideologies = [
         "name": "Totalitarian Capitalism",
         "stats": {
             "econ": 0,
-            "dipl": 30,
+            "dipl": 0,
             "govt": 0,
-            "scty": 50
+            "scty": 0
         }
     },
     {
@@ -467,4 +467,11 @@ ideologies = [
             "scty": 50
         }
     }
+    {
+        "name": "National Bolshevism",
+        "stats": {
+            "econ": 100,
+            "dipl": 10,
+            "govt": 0,
+            "scty": 0
 ];
